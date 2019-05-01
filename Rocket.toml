@@ -1,0 +1,9 @@
+[development]
+address = "localhost"
+port = 8000
+database = "newsletter.db"
+
+[production]
+address = "localhost"
+port = 2937
+database = "newsletter.db"
